@@ -42,14 +42,3 @@
   opacity: 0.3;
   margin-bottom: 24px;
 }
-
-.banner-test {
-  width: 840px;
-  height: 500px;
-  background-color: #999999;
-  opacity: 0.3;
-  border: 10px solid;
-  padding: 20px;
-  margin: 50px;
-  display: block;
-}
