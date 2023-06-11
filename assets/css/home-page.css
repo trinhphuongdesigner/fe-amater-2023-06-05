@@ -42,3 +42,44 @@
   opacity: 0.3;
   margin-bottom: 24px;
 }
+
+/* LYRICS */
+.lyrics {
+  border: 1px solid #e3e3e3;
+  padding: 20px; 
+  margin-bottom: 24px;
+}
+
+.song-name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+}
+
+.author, 
+.author-link {
+  font-size: 1.4rem;
+  line-height: 1.9rem;
+  color: hsl(0 0% 60%);
+}
+
+.author-link {
+  color: hsl(201 84% 55%);
+}
+
+.author-link:hover {
+  text-decoration: underline;
+}
+
+.song-lyrics {
+  font-size: 1.4rem;
+  /* line-height: 2.8rem; */
+  line-height: 200%;
+  color: #333333;
+  font-weight: 400;
+  background: transparent url(https://stc-id.nixcdn.com/v11/images/line_lyric.png) left -5px;
+}
+
+hr {
+  border: 1px solid #ececec;
+}
