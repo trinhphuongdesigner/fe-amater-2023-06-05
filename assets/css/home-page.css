@@ -1,0 +1,55 @@
+/* header-title */
+.header-title {
+  margin-bottom: 12px;
+}
+
+.breadcrumb {
+  margin-bottom: 7px;
+}
+
+.breadcrumb-link, .breadcrumb-icon {
+  font-size: 1.1rem;
+  color: #999999;
+}
+
+.breadcrumb-icon {
+  margin: 0 5px;
+}
+
+.music-name-block {
+  font-size: 2.2rem !important;
+  color: #000000;
+}
+
+.music-name {
+  display: inline;
+}
+
+.music-singer {
+  text-decoration: none;
+  color: #000000;
+}
+
+.music-singer:hover {
+  color: #2daaed;
+}
+
+/* banner */
+.banner {
+  width: 100%;
+  height: 500px;
+  background-color: #999999;
+  opacity: 0.3;
+  margin-bottom: 24px;
+}
+
+.banner-test {
+  width: 840px;
+  height: 500px;
+  background-color: #999999;
+  opacity: 0.3;
+  border: 10px solid;
+  padding: 20px;
+  margin: 50px;
+  display: block;
+}

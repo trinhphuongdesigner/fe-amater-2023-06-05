@@ -1,0 +1,55 @@
+/* .primary {
+  border: 1px solid rgba(20, 21, 21, 0.177);
+  border-radius: 15px;
+  color: blue;
+}
+
+.danger {
+  border: 1px solid rgba(20, 21, 21, 0.177);
+  border-radius: 15px;
+  color: red;
+}
+
+.warning {
+  border: 1px solid rgba(20, 21, 21, 0.177);
+  border-radius: 15px;
+  color: yellow;
+}
+
+.info {
+  border: 1px solid rgba(20, 21, 21, 0.177);
+  border-radius: 15px;
+  color: green;
+} */
+
+.btn {
+  /* border: 0px solid rgba(20, 21, 21, 0.177); */
+  border-color: rgba(20, 21, 21, 0.177);
+  border-style: solid;
+  border-width: 15px;
+  border-radius: 15px;
+  background-color: transparent;
+  padding: 20px;
+  margin: 20px;
+  min-width: 100px;
+}
+
+.btn:hover {
+  background-color: #9999;
+}
+
+.primary {
+  color: blue;
+}
+
+.danger {
+  color: red;
+}
+
+.warning {
+  color: yellow;
+}
+
+.info {
+  color: green;
+}
