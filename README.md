@@ -11,3 +11,7 @@ phuowngChild2 => phuowngChild1 => Phương > Bình > Bổng (I)
 
 Bổng: ăn phải mời => rem
 Phương ăn khỏi mời (ở miền trung) => em
+
+[22 6 2023]
+Flex-box
+Grid
